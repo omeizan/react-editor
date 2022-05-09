@@ -6,6 +6,8 @@
 
 <h1>Screenshots</h1>
 
+![ScreenCapture](/ScreenCaptures/Screen%20Shot%202022-05-08%20at%208.16.11%20PM.png?raw=true)
+![ScreenCapture](/ScreenCaptures/Screen%20Shot%202022-05-08%20at%208.16.39%20PM.png?raw=true)
 
 <h1>Demo</h1>
 https://darling-eclair-186e84.netlify.app
