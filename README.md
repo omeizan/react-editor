@@ -11,3 +11,6 @@
 https://darling-eclair-186e84.netlify.app
 
 <h2>Dependencies<h2>
+  <p>React-codemirror2</p>
+<p>Fort-awesome / font awesome</p>
+<p>React-choppy to clipboard</p>
